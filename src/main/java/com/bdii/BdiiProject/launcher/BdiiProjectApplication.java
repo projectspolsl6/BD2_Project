@@ -1,4 +1,4 @@
-package com.bdii.BdiiProject;
+package com.bdii.BdiiProject.launcher;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
